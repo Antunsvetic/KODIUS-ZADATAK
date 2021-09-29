@@ -47,6 +47,12 @@ Dodatne funkcionalnosti koje bi htio napomenuti:
 Pozornost bi htio okrenuti na prikaz računa koji su stavljeni na stranicu zbog prikaza funkcionalnosti. U realnoj
 stranici se ne bi prikazivali svima podatci o korisnicima.
 
+BAZA PODATAKA
+---------------------------------------------------------------------------------------------------------------------
+
+![bazaItems](https://user-images.githubusercontent.com/85894362/135265097-2ef0099d-d150-42ad-8eb4-a9920c41a1ee.png)
+![bazaOrders](https://user-images.githubusercontent.com/85894362/135265102-86cf63ea-a858-4a22-88bb-5d1e5d153a49.png)
+
 Koristio: HTML, CSS, JAVASCRIPT, REACT, FIREBASE
 
 IZRADIO : Antun Svetić, 29.9.2021
