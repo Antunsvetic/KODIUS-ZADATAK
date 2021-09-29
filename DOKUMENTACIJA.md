@@ -32,10 +32,10 @@ Upisom određenih promo kodova možete dobiti popust na ukupnu vrijednost račun
 Nakon što ste završili, osvježite stranicu te se spustite dolje do računa.
 Računi su dohvačeni iz baze podataka.
 Računi : 
-  - 1. Informacije korisnika
-  - 2. Proizvodi
-  - 3. Ukupna cijena
-  - 4. Ukupna cijena sa popustom
+  - 1 Informacije korisnika
+  - 2 Proizvodi
+  - 3 Ukupna cijena
+  - 4 Ukupna cijena sa popustom
 
 ![racun](https://user-images.githubusercontent.com/85894362/135263408-df28cf53-92df-4b09-8281-9d78450f5b19.png)
 
