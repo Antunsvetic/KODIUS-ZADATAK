@@ -39,6 +39,11 @@ Računi :
 
 ![racun](https://user-images.githubusercontent.com/85894362/135263408-df28cf53-92df-4b09-8281-9d78450f5b19.png)
 
+Dodatne funkcionalnosti koje bi htio napomenuti: 
+  - U slučaju da je jedan od inputa u formi gdje se upisuju podatci o korisniku prazan (osim promo koda)
+    Neće biti moguće zaključiti narudžbu.
+  - Nakon zaključivanja narudžbe košarica se automatski isprazni
+
 Pozornost bi htio okrenuti na prikaz računa koji su stavljeni na stranicu zbog prikaza funkcionalnosti. U realnoj
 stranici se ne bi prikazivali svima podatci o korisnicima.
 
